@@ -1,0 +1,18 @@
+# CMake generation dependency list for this directory.
+C:/Users/Cris/Desktop/assignment3/external/glfw/CMakeLists.txt
+C:/Users/Cris/Desktop/cmake-3.10.3-win64-x64/cmake-3.10.3-win64-x64/share/cmake-3.10/Modules/FindOpenGL.cmake
+C:/Users/Cris/Desktop/cmake-3.10.3-win64-x64/cmake-3.10.3-win64-x64/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/Cris/Desktop/cmake-3.10.3-win64-x64/cmake-3.10.3-win64-x64/share/cmake-3.10/Modules/FindPackageMessage.cmake
+C:/Users/Cris/Desktop/cmake-3.10.3-win64-x64/cmake-3.10.3-win64-x64/share/cmake-3.10/Modules/FindThreads.cmake
+C:/Users/Cris/Desktop/cmake-3.10.3-win64-x64/cmake-3.10.3-win64-x64/share/cmake-3.10/Modules/CheckLibraryExists.cmake
+C:/Users/Cris/Desktop/cmake-3.10.3-win64-x64/cmake-3.10.3-win64-x64/share/cmake-3.10/Modules/CheckSymbolExists.cmake
+C:/Users/Cris/Desktop/cmake-3.10.3-win64-x64/cmake-3.10.3-win64-x64/share/cmake-3.10/Modules/CheckIncludeFile.cmake
+C:/Users/Cris/Desktop/cmake-3.10.3-win64-x64/cmake-3.10.3-win64-x64/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/Cris/Desktop/cmake-3.10.3-win64-x64/cmake-3.10.3-win64-x64/share/cmake-3.10/Modules/FindPackageMessage.cmake
+C:/Users/Cris/Desktop/assignment3/external/glfw/CMake/modules/CMakePackageConfigHelpers.cmake
+C:/Users/Cris/Desktop/cmake-3.10.3-win64-x64/cmake-3.10.3-win64-x64/share/cmake-3.10/Modules/CMakeParseArguments.cmake
+C:/Users/Cris/Desktop/cmake-3.10.3-win64-x64/cmake-3.10.3-win64-x64/share/cmake-3.10/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/Cris/Desktop/assignment3/external/glfw/src/glfw3Config.cmake.in
+C:/Users/Cris/Desktop/cmake-3.10.3-win64-x64/cmake-3.10.3-win64-x64/share/cmake-3.10/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Users/Cris/Desktop/assignment3/external/glfw/src/glfw_config.h.in
+C:/Users/Cris/Desktop/assignment3/external/glfw/src/glfw3.pc.in

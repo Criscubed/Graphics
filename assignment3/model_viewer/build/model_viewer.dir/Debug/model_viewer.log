@@ -1,0 +1,25 @@
+﻿  model_viewer.cpp
+c:\users\cris\desktop\assignment3\model_viewer\src\utils2.h(62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cris\desktop\assignment3\model_viewer\src\utils2.h(65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cris\desktop\assignment3\model_viewer\src\utils2.h(79): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\cris\desktop\assignment3\model_viewer\src\utils2.h(91): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\cris\desktop\assignment3\model_viewer\src\utils2.h(186): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\cris\desktop\assignment3\model_viewer\src\utils2.h(336): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\cris\desktop\assignment3\model_viewer\src\utils2.h(272): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\cris\desktop\assignment3\model_viewer\src\utils2.h(283): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\cris\desktop\assignment3\model_viewer\src\utils2.h(297): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\cris\desktop\assignment3\model_viewer\src\utils2.h(311): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\cris\desktop\assignment3\model_viewer\src\model_viewer.cpp(74): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1199): note: see declaration of 'getenv'
+c:\users\cris\desktop\assignment3\model_viewer\src\model_viewer.cpp(158): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\cris\desktop\assignment3\model_viewer\src\model_viewer.cpp(159): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\cris\desktop\assignment3\model_viewer\src\model_viewer.cpp(265): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\cris\desktop\assignment3\model_viewer\src\model_viewer.cpp(366): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cris\desktop\assignment3\model_viewer\src\model_viewer.cpp(369): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cris\desktop\assignment3\model_viewer\src\model_viewer.cpp(378): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cris\desktop\assignment3\model_viewer\src\model_viewer.cpp(436): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  model_viewer.vcxproj -> C:\Users\Cris\Desktop\assignment3\model_viewer\build\Debug\model_viewer.exe

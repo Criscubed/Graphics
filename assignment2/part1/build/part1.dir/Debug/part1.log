@@ -1,0 +1,6 @@
+﻿  part1.cpp
+c:\users\cris\desktop\assignment2\part1\src\part1.cpp(39): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1199): note: see declaration of 'getenv'
+c:\users\cris\desktop\assignment2\part1\src\part1.cpp(156): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\cris\desktop\assignment2\part1\src\part1.cpp(157): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  part1.vcxproj -> C:\Users\Cris\Desktop\assignment2\part1\build\Debug\part1.exe

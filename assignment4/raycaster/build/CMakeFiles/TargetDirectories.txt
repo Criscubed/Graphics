@@ -1,0 +1,8 @@
+C:/Users/Cris/Desktop/assignment4/raycaster/build/CMakeFiles/raycaster.dir
+C:/Users/Cris/Desktop/assignment4/raycaster/build/CMakeFiles/INSTALL.dir
+C:/Users/Cris/Desktop/assignment4/raycaster/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Cris/Desktop/assignment4/raycaster/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Cris/Desktop/assignment4/raycaster/build/glfw/CMakeFiles/INSTALL.dir
+C:/Users/Cris/Desktop/assignment4/raycaster/build/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/Cris/Desktop/assignment4/raycaster/build/glfw/src/CMakeFiles/glfw.dir
+C:/Users/Cris/Desktop/assignment4/raycaster/build/glfw/src/CMakeFiles/INSTALL.dir

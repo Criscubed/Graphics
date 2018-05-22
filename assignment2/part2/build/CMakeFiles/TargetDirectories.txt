@@ -1,0 +1,8 @@
+C:/Users/Cris/Desktop/assignment2/part2/build/CMakeFiles/part2.dir
+C:/Users/Cris/Desktop/assignment2/part2/build/CMakeFiles/INSTALL.dir
+C:/Users/Cris/Desktop/assignment2/part2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Cris/Desktop/assignment2/part2/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Cris/Desktop/assignment2/part2/build/glfw/CMakeFiles/INSTALL.dir
+C:/Users/Cris/Desktop/assignment2/part2/build/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/Cris/Desktop/assignment2/part2/build/glfw/src/CMakeFiles/glfw.dir
+C:/Users/Cris/Desktop/assignment2/part2/build/glfw/src/CMakeFiles/INSTALL.dir
