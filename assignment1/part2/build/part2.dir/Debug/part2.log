@@ -1,0 +1,4 @@
+﻿  part2.cpp
+c:\users\cris\desktop\assignment1\part2\src\part2.cpp(35): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1199): note: see declaration of 'getenv'
+  part2.vcxproj -> C:\Users\Cris\Desktop\assignment1\part2\build\Debug\part2.exe

@@ -1,0 +1,31 @@
+﻿  Building Custom Rule C:/Users/Cris/Desktop/assignment1/part3/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Cris/Desktop/assignment1/part3/build/CMakeFiles/generate.stamp is up-to-date.
+  part3.cpp
+c:\users\cris\desktop\assignment1\part3\src\part3.cpp(35): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1199): note: see declaration of 'getenv'
+  lodepng.cpp
+c:\users\cris\desktop\assignment1\external\lodepng\lodepng.cpp(356): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\cris\desktop\assignment1\external\lodepng\lodepng.cpp(378): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\cris\desktop\assignment1\external\lodepng\lodepng.cpp(784): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cris\desktop\assignment1\external\lodepng\lodepng.cpp(792): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cris\desktop\assignment1\external\lodepng\lodepng.cpp(793): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cris\desktop\assignment1\external\lodepng\lodepng.cpp(822): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cris\desktop\assignment1\external\lodepng\lodepng.cpp(823): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cris\desktop\assignment1\external\lodepng\lodepng.cpp(1461): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cris\desktop\assignment1\external\lodepng\lodepng.cpp(1494): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cris\desktop\assignment1\external\lodepng\lodepng.cpp(3374): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+c:\users\cris\desktop\assignment1\external\lodepng\lodepng.cpp(3380): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\cris\desktop\assignment1\external\lodepng\lodepng.cpp(4339): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cris\desktop\assignment1\external\lodepng\lodepng.cpp(4387): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cris\desktop\assignment1\external\lodepng\lodepng.cpp(4467): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cris\desktop\assignment1\external\lodepng\lodepng.cpp(5393): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cris\desktop\assignment1\external\lodepng\lodepng.cpp(5612): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw_gl3.cpp
+  Generating Code...
+  glew.c
+  part3.vcxproj -> C:\Users\Cris\Desktop\assignment1\part3\build\Debug\part3.exe
